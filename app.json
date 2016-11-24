@@ -1,0 +1,11 @@
+{
+	"pages": [
+		"pages/index"
+	],
+  "window": {
+    "navigationBarTextStyle": "light",
+    "navigationBarTitleText": "canvas 时钟",
+    "navigationBarBackgroundColor": "#42bd41",
+    "backgroundColor": "#fbf9fe"
+  }
+}
